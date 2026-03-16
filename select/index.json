@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Until It's Gone",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-03-16T06:35:17.209293Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Until_It's_Gone_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Until It's Gone (Acapella)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Until_It's_Gone_(Acapella)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Until_It's_Gone_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_Until_It's_Gone_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "No Use for a Name",
+      "has_synced": true,
+      "path": "select/05_Until_It's_Gone_No_Use_for_a_Name.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "Monica",
+      "has_synced": true,
+      "path": "select/06_Until_It's_Gone_Monica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "Monica",
+      "has_synced": true,
+      "path": "select/07_Until_It's_Gone_Monica.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "Monica",
+      "has_synced": false,
+      "path": "select/08_Until_It's_Gone_Monica.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Until It’s Gone",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Until_It’s_Gone_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Until_It's_Gone_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Until It's Gone",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Until_It's_Gone_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Don't Know What You've Got (Until It's Gone)",
+      "artist": "Jennifer Rush",
+      "has_synced": false,
+      "path": "select/12_You_Don't_Know_What_You've_Got_(Until_It's_Gone)_Jennifer_Rush.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Until It's Gone",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Until_It's_Gone_Linkin_Park.txt"
+    }
+  ]
+}
