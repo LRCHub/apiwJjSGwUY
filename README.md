@@ -1,0 +1,47 @@
+# Linkin Park – Until It's Gone
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.95] A fire needs a space to burn
+[00:25.90] A breath to build a glow
+[00:30.08] I've heard it said a thousand times
+[00:34.26] But now I know
+[00:41.26] 
+[00:38.88] That you don't know what you've got
+[00:42.94] Oh you don't know what you've got
+[00:47.18] No you don't know what you've got
+[00:51.02] Until it's gone
+[00:59.25] Until it's gone
+[01:07.77] Until it's gone
+[01:15.27] 
+[01:21.31] I thought I kept you safe and sound
+[01:25.35] I thought I made you strong
+[01:29.65] But something made me realize
+[01:33.63] That I was wrong
+[01:41.63] 
+[01:37.88] 'Cause finding what you've got sometimes
+[01:42.24] Means finding it alone
+[01:46.29] And I can finally see your light
+[01:50.62] When I let go
+[01:57.12] 
+[01:54.84] 'Cause you don't know what you've got
+[01:58.88] Until it's gone
+[02:07.25] Until it's gone
+[02:15.53] Until it's gone
+[02:23.03] 
+[02:32.33] Until it's gone
+[02:36.39] Until it's gone
+[02:40.55] Until it's gone
+[02:44.75] Until it's gone
+[02:53.07] Until it's gone
+[03:00.57] 
+[03:01.82] 'Cause you don't know what you've got
+[03:05.61] Oh you don't know what you've got
+[03:09.91] No, you don't know what you've got
+[03:14.14] It's your battle to be fought
+[03:18.36] No, you don't know what you've got
+[03:22.42] 'Til it's gone
+[03:29.02] 'Til it's gone
+[03:32.23] 'Til it's gone
+```
